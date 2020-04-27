@@ -1,0 +1,9 @@
+C:\Users\navee\source\repos\Azure.Functions.App\Azure.Functions.Utilities\bin\Debug\netstandard2.0\Azure.Functions.Utilities.deps.json
+C:\Users\navee\source\repos\Azure.Functions.App\Azure.Functions.Utilities\bin\Debug\netstandard2.0\Azure.Functions.Utilities.dll
+C:\Users\navee\source\repos\Azure.Functions.App\Azure.Functions.Utilities\bin\Debug\netstandard2.0\Azure.Functions.Utilities.pdb
+C:\Users\navee\source\repos\Azure.Functions.App\Azure.Functions.Utilities\obj\Debug\netstandard2.0\Azure.Functions.Utilities.csprojAssemblyReference.cache
+C:\Users\navee\source\repos\Azure.Functions.App\Azure.Functions.Utilities\obj\Debug\netstandard2.0\Azure.Functions.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\navee\source\repos\Azure.Functions.App\Azure.Functions.Utilities\obj\Debug\netstandard2.0\Azure.Functions.Utilities.AssemblyInfoInputs.cache
+C:\Users\navee\source\repos\Azure.Functions.App\Azure.Functions.Utilities\obj\Debug\netstandard2.0\Azure.Functions.Utilities.AssemblyInfo.cs
+C:\Users\navee\source\repos\Azure.Functions.App\Azure.Functions.Utilities\obj\Debug\netstandard2.0\Azure.Functions.Utilities.dll
+C:\Users\navee\source\repos\Azure.Functions.App\Azure.Functions.Utilities\obj\Debug\netstandard2.0\Azure.Functions.Utilities.pdb

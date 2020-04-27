@@ -1,0 +1,14 @@
+C:\Users\navee\source\repos\Azure.Functions.App\Azure.Functions.App.Services\bin\Debug\netstandard2.0\Azure.Functions.Services.deps.json
+C:\Users\navee\source\repos\Azure.Functions.App\Azure.Functions.App.Services\bin\Debug\netstandard2.0\Azure.Functions.Services.dll
+C:\Users\navee\source\repos\Azure.Functions.App\Azure.Functions.App.Services\bin\Debug\netstandard2.0\Azure.Functions.Services.pdb
+C:\Users\navee\source\repos\Azure.Functions.App\Azure.Functions.App.Services\bin\Debug\netstandard2.0\Azure.Functions.Contracts.dll
+C:\Users\navee\source\repos\Azure.Functions.App\Azure.Functions.App.Services\bin\Debug\netstandard2.0\Azure.Functions.Utilities.dll
+C:\Users\navee\source\repos\Azure.Functions.App\Azure.Functions.App.Services\bin\Debug\netstandard2.0\Azure.Functions.Contracts.pdb
+C:\Users\navee\source\repos\Azure.Functions.App\Azure.Functions.App.Services\bin\Debug\netstandard2.0\Azure.Functions.Utilities.pdb
+C:\Users\navee\source\repos\Azure.Functions.App\Azure.Functions.App.Services\obj\Debug\netstandard2.0\Azure.Functions.Services.csprojAssemblyReference.cache
+C:\Users\navee\source\repos\Azure.Functions.App\Azure.Functions.App.Services\obj\Debug\netstandard2.0\Azure.Functions.Services.csproj.CoreCompileInputs.cache
+C:\Users\navee\source\repos\Azure.Functions.App\Azure.Functions.App.Services\obj\Debug\netstandard2.0\Azure.Functions.Services.AssemblyInfoInputs.cache
+C:\Users\navee\source\repos\Azure.Functions.App\Azure.Functions.App.Services\obj\Debug\netstandard2.0\Azure.Functions.Services.AssemblyInfo.cs
+C:\Users\navee\source\repos\Azure.Functions.App\Azure.Functions.App.Services\obj\Debug\netstandard2.0\Azure.Functions.Services.csproj.CopyComplete
+C:\Users\navee\source\repos\Azure.Functions.App\Azure.Functions.App.Services\obj\Debug\netstandard2.0\Azure.Functions.Services.dll
+C:\Users\navee\source\repos\Azure.Functions.App\Azure.Functions.App.Services\obj\Debug\netstandard2.0\Azure.Functions.Services.pdb

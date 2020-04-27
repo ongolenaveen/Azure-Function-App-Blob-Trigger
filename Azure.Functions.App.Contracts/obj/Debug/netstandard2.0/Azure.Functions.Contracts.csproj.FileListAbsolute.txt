@@ -1,0 +1,8 @@
+C:\Users\navee\source\repos\Azure.Functions.App\Azure.Functions.App.Contracts\bin\Debug\netstandard2.0\Azure.Functions.Contracts.deps.json
+C:\Users\navee\source\repos\Azure.Functions.App\Azure.Functions.App.Contracts\bin\Debug\netstandard2.0\Azure.Functions.Contracts.dll
+C:\Users\navee\source\repos\Azure.Functions.App\Azure.Functions.App.Contracts\bin\Debug\netstandard2.0\Azure.Functions.Contracts.pdb
+C:\Users\navee\source\repos\Azure.Functions.App\Azure.Functions.App.Contracts\obj\Debug\netstandard2.0\Azure.Functions.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\navee\source\repos\Azure.Functions.App\Azure.Functions.App.Contracts\obj\Debug\netstandard2.0\Azure.Functions.Contracts.AssemblyInfoInputs.cache
+C:\Users\navee\source\repos\Azure.Functions.App\Azure.Functions.App.Contracts\obj\Debug\netstandard2.0\Azure.Functions.Contracts.AssemblyInfo.cs
+C:\Users\navee\source\repos\Azure.Functions.App\Azure.Functions.App.Contracts\obj\Debug\netstandard2.0\Azure.Functions.Contracts.dll
+C:\Users\navee\source\repos\Azure.Functions.App\Azure.Functions.App.Contracts\obj\Debug\netstandard2.0\Azure.Functions.Contracts.pdb

@@ -1,0 +1,9 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=storageaccountmyresaa57;AccountKey=OWvrmrct8Hsz7BrNhuNf+OyPj0Ny4vnWMpQukkQRWvMW01rFV7jiigi1ZZE2Vm91NhUAa41xIYShAPSDqClKsQ==;EndpointSuffix=core.windows.net",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    "VisionEndpoint": "https://scanimage.cognitiveservices.azure.com/",
+    "VisionAccessKey": "77de9ae68eb54494ab0d63ca1989916a"
+  }
+}
